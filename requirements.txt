@@ -1,0 +1,7 @@
+langchain
+educhain
+google-generative-ai
+tenacity
+python-dotenv
+logging
+requests

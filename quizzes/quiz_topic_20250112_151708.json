@@ -1,0 +1,37 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following is NOT a common technique used in Natural Language Processing (NLP)?",
+      "answer": "B",
+      "explanation": "While backpropagation is a crucial algorithm for training neural networks, which are often used *in* NLP, it's not a direct technique *of* NLP itself. Tokenization, Named Entity Recognition, and Sentiment Analysis are all core NLP techniques.",
+      "options": [
+        "A. Tokenization",
+        "B. Backpropagation",
+        "C. Named Entity Recognition",
+        "D. Sentiment Analysis"
+      ]
+    },
+    {
+      "question": "What is the primary difference between supervised and unsupervised learning in the context of AI?",
+      "answer": "A",
+      "explanation": "The core distinction lies in the data used. Supervised learning algorithms train on labeled datasets (input-output pairs), allowing them to predict outputs for new inputs. Unsupervised learning algorithms work with unlabeled data, identifying patterns and structures without explicit guidance.",
+      "options": [
+        "A. Supervised learning uses labeled data, while unsupervised learning uses unlabeled data.",
+        "B. Supervised learning is used for classification, while unsupervised learning is used for regression.",
+        "C. Supervised learning requires less computational power than unsupervised learning.",
+        "D. Supervised learning creates generative models, while unsupervised learning creates discriminative models."
+      ]
+    },
+    {
+      "question": "In reinforcement learning, what is the role of the 'agent'?",
+      "answer": "C",
+      "explanation": "The agent is the learner and decision-maker in reinforcement learning. It explores the environment, takes actions, receives feedback (rewards or penalties), and adjusts its strategy to maximize cumulative rewards over time. It's not a passive observer, doesn't define the rewards, and isn't pre-programmed with optimal behavior.",
+      "options": [
+        "A. To passively observe the environment and record data.",
+        "B. To define the rewards and penalties for different actions.",
+        "C. To interact with the environment and learn optimal actions through trial and error.",
+        "D. To pre-program the optimal behavior for a specific task."
+      ]
+    }
+  ]
+}

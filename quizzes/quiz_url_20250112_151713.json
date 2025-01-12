@@ -1,0 +1,9 @@
+{
+  "error": "Failed to generate URL quiz: 429 Resource has been exhausted (e.g. check quota).",
+  "timestamp": "2025-01-12T15:17:13.852914",
+  "params": {
+    "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "num_questions": 3,
+    "type": "Multiple Choice"
+  }
+}

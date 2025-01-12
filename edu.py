@@ -226,7 +226,7 @@ def main():
     """Main function with error handling and logging."""
     try:
         # Directly use the API key instead of environment variable
-        GOOGLE_API_KEY = 'AIzaSyD8FbT54AoI1BZzMKErr-0tM6xGNDFVQVk'  # Your API key
+        GOOGLE_API_KEY = 'api_key'  # Your API key
         
         generator = QuizGenerator(GOOGLE_API_KEY)
         
